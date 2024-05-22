@@ -1,3 +1,31 @@
 body {
+nav {
+  list-style-type: none;
+  background-color: #2a6f97;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  color: white;
+  padding: 16px;
+}
 
+body{
+  background-color: pink;
+}
+
+li {
+  display: inline;
+  padding: 24px;
+  
+}
+
+li:hover {
+  background: #023e8a;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
 }
