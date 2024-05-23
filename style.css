@@ -1,4 +1,7 @@
 body {
+    background-color: pink;
+}
+
 nav {
   list-style-type: none;
   background-color: #2a6f97;
@@ -8,10 +11,6 @@ nav {
   left: 0;
   color: white;
   padding: 16px;
-}
-
-body{
-  background-color: pink;
 }
 
 li {
@@ -27,5 +26,4 @@ li:hover {
 a {
   text-decoration: none;
   color: white;
-}
 }
